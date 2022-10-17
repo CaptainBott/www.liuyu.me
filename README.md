@@ -1,4 +1,4 @@
-## www.liuyu.me 过渡期项目
+## liuyu.me 过渡期项目
 
 ### 项目地址
 [https://www.liuyu.me/](https://www.liuyu.me/)
