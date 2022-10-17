@@ -1,7 +1,7 @@
 # liuyu.me 过渡期项目
 
 ### 项目地址
-<https://www.liuyu.me>{:target="_blank"}
+<https://www.liuyu.me>
 
 
 ### 项目用途
