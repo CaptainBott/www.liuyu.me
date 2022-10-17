@@ -15,25 +15,36 @@
       overflow: hidden;
     }
 
-    #bm {
+    body {
       position: absolute;
       top: 0;
       bottom: 0;
       left: 0;
       right: 0;
       margin: auto;
-      width: 80%;
+    }
+
+    #blank {
+      height: 10%;
+    }
+
+    #bm {
+      margin: auto;
+      width: 90%;
       height: 80%;
     }
 
     footer {
-      padding: 20px 0;
+      display: flex;
+      height: 10%;
+      justify-content: center;
+      align-items: end;
     }
 
     footer a {
-      display: inline-block;
-      width: 100%;
-      text-align: center;
+      font-size: 12px;
+      line-height: 30px;
+      color: darkgrey;
     }
   </style>
 
@@ -57,6 +68,7 @@
 </head>
 
 <body>
+  <div id="blank"></div>
   <div id="bm"></div>
   <footer>
     <a href="https://beian.miit.gov.cn" target="_blank">蜀ICP备15008098号-1</a>
