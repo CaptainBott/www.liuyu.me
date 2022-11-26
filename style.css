@@ -44,6 +44,7 @@ html,
       margin: auto;
       width: 90%;
       height: 80%;
+      background: url("loading.svg") center no-repeat;
     }
 
     footer {
