@@ -1,7 +1,7 @@
-# liuyu.me 过渡期项目
+# 我的主页 过渡期项目
 
 ### 项目地址
-<https://www.liuyu.me>
+<https://www.uyu.li>
 
 
 ### 项目用途
